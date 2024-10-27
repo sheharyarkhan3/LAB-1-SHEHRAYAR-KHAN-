@@ -168,11 +168,3 @@ nav ul li{
     cursor: pointer;
 }
 
-#commentsContainer {
-    margin-top: 20px;
-}
-
-.comment {
-    padding: 10px;
-    border-bottom: 1px solid #ccc;
-}
